@@ -1,4 +1,6 @@
-## Hi there 👋
+## Привет! 👋
+
+Это мой профиль для учебных проектов. Люблю узнавать и применять новое!
 
 <!--
 **AndreyVSelivanov/AndreyVSelivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
